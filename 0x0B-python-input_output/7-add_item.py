@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-"""Python script that adds all args to a Python List.
-    List is then saved to a file."""
+"""
+    Python script that adds all args to a Python List.
+    List is then saved to a file.
+"""
 
 
 import sys
