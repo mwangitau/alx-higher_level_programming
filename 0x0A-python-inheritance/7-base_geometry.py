@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# 7-base_geometry.py
+# Brennan D Baraban <375@holbertonschool.com>
 """Defines a base geometry class BaseGeometry."""
 
 
@@ -11,6 +13,7 @@ class BaseGeometry:
 
     def integer_validator(self, name, value):
         """Validate a parameter as an integer.
+
         Args:
             name (str): The name of the parameter.
             value (int): The parameter to validate.

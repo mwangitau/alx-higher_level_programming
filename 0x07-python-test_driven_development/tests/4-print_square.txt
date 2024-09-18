@@ -1,3 +1,6 @@
+# 4-print_square.txt
+# Brennan D Baraban <375@holbertonschool.com>
+
 ============================
 How to Use 4-print_square.py
 ============================
