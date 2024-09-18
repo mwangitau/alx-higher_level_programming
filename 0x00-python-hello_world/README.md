@@ -1,1 +1,1 @@
-Coming up soon. 
+This directory contains introductory tasks to python.
